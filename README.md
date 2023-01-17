@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Nypat
-- 👀 I’m interested in Code
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Instagram: @edufonteszzz
+Currently learning JavaScript | React Native | SQL postgres
+
+reach me! Instagram: @edufonteszzz
 
 <!---
 Nypat/Nypat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
